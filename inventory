@@ -1,0 +1,4 @@
+[debian]
+ubuntu_vm ansible_host=13.204.68.242 ansible_user=ubuntu
+ubuntu_vm1 ansible_host=13.203.156.246 ansible_user=ubuntu
+ubuntu_vm2 ansible_host=65.0.27.228 ansible_user=ubuntu
